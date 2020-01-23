@@ -1,2 +1,2 @@
 # Configure
-Distributed Configure System
+Used Local/Distributed Configure
