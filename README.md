@@ -1,5 +1,7 @@
-# WuManBer for Java
+# Layerwindow for Cplusplus in windows systems
 
-Wu/Manber is a very high performance string/text search/match algorithm.
 
-Wu-Manber stand on the shoulders of their Multi Pattern Search predecessors: Aho and Corasick (with a linear time scanner based upon an automata approach), Commentz-Walter (who combined Aho-Corasick with the Boyer-Moore string search algorithm), and Baeza-Yates (with a slightly different combination of Aho-Corasick and Boyer-Moore-Horspool).
+At that time, layerWindows was a novelty, just like the Gaussian effect of windows. 
+The code in 2003 is in memory of UI programming under windows OS in those years. 
+
+It ’s interesting. hummmm?
